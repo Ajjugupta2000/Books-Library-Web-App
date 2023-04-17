@@ -1,9 +1,10 @@
 .search-form{
     width: 100%;
     max-width: 680px;
+    
 }
 .search-form-elem{
-    padding: 1.4rem 2.8rem;
+    padding: 1.0rem 2.3rem;
     border-radius: 3.8rem;
 }
 .search-form-elem .form-control{
