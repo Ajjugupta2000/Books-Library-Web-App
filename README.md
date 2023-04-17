@@ -2,28 +2,13 @@
 ## About
 A Books library app using the Open Library Subjects and Search APIs can be a powerful tool for book enthusiasts, librarians, and anyone who wants to easily find and organize books based on different topics or subjects. Open Library is an open-source platform that provides access to a vast collection of books and information about them. The Open Library Subjects and Search APIs allow developers to access this information and integrate it into their own applications.
 
-## Available Scripts
+## How to run the project
+1. Clone the repository: First, you need to clone the GitHub repository of the web app to your local system. You can do this by running the following command in your terminal or command prompt:     
+`git clone https://github.com/Ajjugupta2000/Books-Library-Web-App.git`
+2. Install dependencies: Once you have cloned the repository, navigate to the root directory of the project and install any dependencies required by the web app. You can do this by running the following command:      
+`npm install`
+3. Run the app: After installing the dependencies, you can run the web app by running the following command:        
+`npm start`
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+That's it!🎉🎉 With these steps, you should be able to run the web app in your local system and test it out.
 
